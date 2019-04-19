@@ -47,7 +47,7 @@ or request Issues!
 # alpha.
 [![ALPHA](https://discordapp.com/api/guilds/514950689508818992/widget.png?style=banner4)](https://discord.gg/KYwkNYU)
 
-` Coming Soon OwO `
+` ALPHA is Here `
 
 
 "ALPHA Is Best Arabic Server Developer"
