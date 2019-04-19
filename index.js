@@ -117,7 +117,6 @@ if (xp[message.author.id].shit == 10) xp[message.author.id].yens+=parseInt(Math.
     if (err) console.log(err)})
  }
 if(message.content.startsWith(botconfig.prefix)){
-  ///  if(message.author.id == "517728112897818626") return message.channel.send("كسمك ولا البوت مش لأمثالك")
  let commandfile = bot.commands.get(cmd.slice(prefix.length));
  if(commandfile) commandfile.run(bot, message, args);
  
