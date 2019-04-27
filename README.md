@@ -1,6 +1,10 @@
 # N A R O X; 
 ![YATO,DEV](https://media.discordapp.net/attachments/477822666200580098/568624192946438145/JPEG_20190320_093241.jpg?width=300&height=300)
 
+#DEVELOPERS
+`A K A M E 夢#5555`
+`- Mál , YATO#7147`
+
 <a href="https://discord.gg/KYwkNYU"><img src="https://discordapp.com/api/guilds/514950689508818992/embed.png" alt="Discord server" /></a>
 
 Discord Bot With some Customizable options and new Styles , u should try that man !
