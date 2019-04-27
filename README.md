@@ -5,7 +5,7 @@
 `A K A M E 夢#5555`
 `- Mál , YATO#7147`
 
-<a href="https://discord.gg/KYwkNYU"><img src="https://discordapp.com/api/guilds/514950689508818992/embed.png" alt="Discord server" /></a>
+<a href="https://discord.gg/W5gdNrZ"><img src="https://discordapp.com/api/guilds/571509446614712321/embed.png" alt="Discord server" /></a>
 
 Discord Bot With some Customizable options and new Styles , u should try that man !
 ### Features:
@@ -49,7 +49,7 @@ npm install superagent
 if You Need Help Dm Me on Discord Tag; `YATO#0001`
 or request Issues!
 # alpha.
-[![ALPHA](https://discordapp.com/api/guilds/514950689508818992/widget.png?style=banner4)](https://discord.gg/KYwkNYU)
+[![ALPHA](https://discordapp.com/api/guilds/571509446614712321/widget.png?style=banner4)](https://discord.gg/W5gdNrZ)
 
 ` ALPHA is Here `
 
