@@ -2,8 +2,8 @@
 ![YATO,DEV](https://media.discordapp.net/attachments/477822666200580098/568624192946438145/JPEG_20190320_093241.jpg?width=300&height=300)
 
 #DEVELOPERS
-`A K A M E 夢#5555`
-`- Mál , YATO#7147`
+`! ℛx | xxxRevenge#6158`
+`YATO#0128`
 
 <a href="https://discord.gg/W5gdNrZ"><img src="https://discordapp.com/api/guilds/571509446614712321/embed.png" alt="Discord server" /></a>
 
@@ -46,7 +46,7 @@ npm install superagent
 ```
 # Help ? 
 
-if You Need Help Dm Me on Discord Tag; `YATO#0001`
+if You Need Help Dm Me on Discord Tag; `YATO#0128`
 or request Issues!
 # alpha.
 [![ALPHA](https://discordapp.com/api/guilds/571509446614712321/widget.png?style=banner4)](https://discord.gg/W5gdNrZ)
