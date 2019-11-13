@@ -2,8 +2,7 @@
 ![YATO,DEV](https://media.discordapp.net/attachments/477822666200580098/568624192946438145/JPEG_20190320_093241.jpg?width=300&height=300)
 
 #DEVELOPERS
-`! ℛx | xxxRevenge#6158`
-`YATO#0128`
+`RG , YATO#0001`
 
 <a href="https://discord.gg/9WJ8nrG"><img src="https://discordapp.com/api/guilds/571509446614712321/embed.png" alt="Discord server" /></a>
 
