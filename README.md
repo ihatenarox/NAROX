@@ -4,7 +4,7 @@
 #DEVELOPERS
 `RG , YATO#0001`
 
-<a href="https://discord.gg/9WJ8nrG"><img src="https://discordapp.com/api/guilds/571509446614712321/embed.png" alt="Discord server" /></a>
+<a href="https://discord.gg/pYTVYza"><img src="https://discordapp.com/api/guilds/565291056422453256/embed.png" alt="Discord server" /></a>
 
 Discord Bot With some Customizable options and new Styles , u should try that man !
 ### Features:
