@@ -48,7 +48,7 @@ npm install superagent
 if You Need Help Dm Me on Discord Tag; `YATO#0001`&`Edward Asaad#0001`
 or request Issues!
 # alpha.
-[![ALPHA](https://discordapp.com/api/guilds/565291056422453256/widget.png?style=banner4)](https://discord.gg/pYTVYza)
+[![ALPHA](https://discordapp.com/api/guilds/565291056422453256/widget.png?style=banner)](https://discord.gg/pYTVYza)
 
 ` ALPHA is Here `
 
