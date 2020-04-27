@@ -45,7 +45,7 @@ npm install superagent
 ```
 # Help ? 
 
-if You Need Help Dm Me on Discord Tag; `YATO#0001`&`Edward Asaad#0001`
+if You Need Help Dm Me on Discord Tag; `YATO#0001`&
 or request Issues!
 # alpha.
 [![ALPHA](https://discordapp.com/api/guilds/565291056422453256/widget.png?style=banner2)](https://discord.gg/Hg4myC6)
