@@ -2,7 +2,7 @@
 ![YATO,DEV](https://media.discordapp.net/attachments/477822666200580098/568624192946438145/JPEG_20190320_093241.jpg?width=300&height=300)
 
 #DEVELOPERS
-`YATO#0001`&`Edward Asaad#0001`
+`YATO#0001`
 
 <a href="https://discord.gg/Hg4myC6"><img src="https://discordapp.com/api/guilds/565291056422453256/embed.png" alt="Discord server" /></a>
 
