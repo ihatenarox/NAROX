@@ -4,10 +4,12 @@
 #DEVELOPERS
 `YATO#0001`
 
-<a href="https://discord.gg/Hg4myC6"><img src="https://discordapp.com/api/guilds/565291056422453256/embed.png" alt="Discord server" /></a>
+<!---Image does not seem to be there.--->
+<!---<a href="https://discord.gg/Hg4myC6"><img src="https://discordapp.com/api/guilds/565291056422453256/embed.png" alt="Discord server" /></a>--->
 
-Discord Bot With some Customizable options and new Styles , u should try that man !
-### Features:
+Discord Bot With some customizable options and new styles, you should try it man!
+
+### Features
 - anime <animename> => display anime info
 - avatar => display user avatar
 - bot => display bot info
@@ -19,38 +21,19 @@ Discord Bot With some Customizable options and new Styles , u should try that ma
 - roles => display roles list
 - server => display server info
 - user => epic command man ! you should try this ! for display userinfo
-### Requires:
-- Node.js
-- [discord.js](https://www.npmjs.com/package/discord.js)
-- lots of Node.js modules check package.json
-# Installition.
-1 -The Bot is Writted and runned by node.js download that [Node.js](https://nodejs.org/en/download/)
 
-2 - press clone or download button and launch!
+### Installation
+1. Install [NodeJS](https://nodejs.org/en/download/)
+2. Run `npm install` in root directory to install all packages.
+3. Use `node index.js` to start bot.
 
-`sometimes you need to install packages so try`
-```fix
-npm install discord.js
-npm install common-tags
-npm install file-system
-npm install fs
-npm install mal-scraper
-npm install moment
-npm install node-url-shortener
-npm install os
-npm install pastebin-js
-npm install random-puppy
-npm install string-similarity
-npm install superagent
-```
-# Help ? 
+### Help 
+If you need help DM me on Discord, my username is `YATO#0001`. (And / or request issues!)
 
-if You Need Help Dm Me on Discord Tag; `YATO#0001`&
-or request Issues!
-# alpha.
-[![ALPHA](https://discordapp.com/api/guilds/565291056422453256/widget.png?style=banner2)](https://discord.gg/Hg4myC6)
+### Alpha
+<!--Image does not seem to be there-->
+<!--[![ALPHA](https://discordapp.com/api/guilds/565291056422453256/widget.png?style=banner2)](https://discord.gg/Hg4myC6)-->
 
-` ALPHA is Here `
-
+`ALPHA is Here`
 
 "ALPHA Is Best Arabic Server Developer"
