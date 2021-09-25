@@ -1,8 +1,7 @@
 # N A R O X; 
 ![YATO,DEV](https://media.discordapp.net/attachments/477822666200580098/568624192946438145/JPEG_20190320_093241.jpg?width=300&height=300)
 
-#DEVELOPERS 
-`YATO#0018`
+#DEVELOPERS
 <img src="https://discord.c99.nl/widget/theme-4/337629134371160065.png" alt="YATO#0018" />
 
 
