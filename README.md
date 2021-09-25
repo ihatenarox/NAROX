@@ -2,9 +2,9 @@
 ![YATO,DEV](https://media.discordapp.net/attachments/477822666200580098/568624192946438145/JPEG_20190320_093241.jpg?width=300&height=300)
 
 #DEVELOPERS
-`YATO#0001`
+`YATO#0018`
 
-<a href="https://discord.gg/wc3Gtxq"><img src="https://discordapp.com/api/guilds/690611470123139142/embed.png" alt="Discord server" /></a>
+<a href="https://discord.gg/alpha"><img src="https://discordapp.com/api/guilds/690611470123139142/embed.png" alt="Discord server" /></a>
 
 Discord Bot With some Customizable options and new Styles , u should try that man !
 ### Features:
@@ -48,7 +48,7 @@ npm install superagent
 if You Need Help Dm Me on Discord Tag; `YATO#0001`&
 or request Issues!
 # alpha.
-[![ALPHA](https://discordapp.com/api/guilds/690611470123139142/widget.png?style=banner2)](https://discord.gg/wc3Gtxq)
+[![ALPHA](https://discordapp.com/api/guilds/690611470123139142/widget.png?style=banner2)](https://discord.gg/alpha)
 
 ` ALPHA is Here `
 
